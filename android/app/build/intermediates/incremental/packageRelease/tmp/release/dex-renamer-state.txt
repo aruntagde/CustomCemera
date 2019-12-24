@@ -1,0 +1,4 @@
+#Sun Dec 22 20:51:03 IST 2019
+base.0=/Users/arun.tagde/Desktop/dasktop/demo/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
